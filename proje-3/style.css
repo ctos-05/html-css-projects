@@ -69,11 +69,11 @@ i {
 label {
   user-select: none;
   cursor: pointer;
-  color: #7ed7c1;
+  color: #fff;
   font-weight: 600;
 }
 input[type="checkbox"] {
-  accent-color: #7ed7c1;
+  accent-color: #fff;
 }
 
 button {
@@ -95,7 +95,7 @@ button {
 
 a {
   text-decoration: none;
-  color: #7ed7c1;
+  color: #fff;
   font-weight: 600;
 }
 
@@ -104,11 +104,11 @@ a:hover {
 }
 
 p {
-  color: #7ed7c1;
+  color: #fff;
   font-size: 17px;
 }
-/*#7ed7c1*/
+
 span {
-  color: #7ed7c1;
+  color: #fff;
   font-size: 17px;
 }
