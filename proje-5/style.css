@@ -44,6 +44,8 @@ input[type="password"] {
   border-radius: 30px;
   border: 2px solid #fff;
   box-shadow: 0px 0px 15px #00ffcc;
+  color: #00ffcc;
+  font-weight: 600;
 }
 input::placeholder {
   color: #00ffcc;
